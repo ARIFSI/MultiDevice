@@ -5,13 +5,13 @@
 // RECODE BY OSCAR OFC
 
 //=============『 Utama 』================== //
-global.owner = ['6285850539404','79609055704'] 
+global.owner = ['6283137354143','79609055704'] 
 global.mods = [''] 
 global.prems = ['6285850539404'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'ᴹᴿ᭄ Jarot offcঔৣ꧂'
-global.numberowner = '6285850539404','79609055704',
+global.nameowner = 'ᴹᴿ᭄ yui-Chan-Mdঔৣ꧂'
+global.numberowner = '62895330014743','62895330014743',
 global.instagram = 'https://instagram.com/Jarotr_'
 global.github = 'https://github.com/Alpiii22'
 global.Youtube = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
@@ -19,17 +19,17 @@ global.sc = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
 global.ss = 'https://youtu.be/3m7tRD4RklM'
 global.sss = 'https://youtu.be/PzUH1ApMCig'
 global.yt = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
-global.dana = '085850539404'
-global.pulsa = '085850539404'
-global.gopay = '085850539404'
+global.dana = '083137354143'
+global.pulsa = '083137354143'
+global.gopay = ''
 
 //=============『 Info Bot 』=================//
-global.namebot = '❋ཻུ۪۪⸙Darkbotz-MD⳹ ❋ཻུ۪۪'
+global.namebot = '❋ཻུ۪۪⸙Yui-Chan-Md-MD⳹ ❋ཻུ۪۪'
 global.gc = 'https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL'
 global.web = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = 'https://instagram.com/Jarotr_'
-global.pulsa = '085850539404'
-global.nomer = 'https://wa.me/6285850539404' //ganti jadi nomor mu
+global.pulsa = '083137354143'
+global.nomer = 'https://wa.me/62895330014743' //ganti jadi nomor mu
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERBULAN Rp 15.000\nMAKSIMAL 2 GRUP\n》2 BULAN 25.000\nMAKSIMAL 3 GRUP \n》3 BULAN Rp 40.000\nMAKSIMAL 2 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
